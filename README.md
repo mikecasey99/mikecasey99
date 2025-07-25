@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Michael
 
-<!--
-**mikecasey99/mikecasey99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring full-stack developer focused on building modern enterprise applications using **C# and .NET Core**. I'm currently preparing for a career in government or enterprise tech, and actively leveling up my skills in backend development, clean code practices, and dependency injection.
 
-Here are some ideas to get you started:
+I bring a strong willingness to learn, and I'm committed to building a rock-solid foundation in full-stack development — especially in technologies like **.NET Core**, **Entity Framework**, and **Angular**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 What I'm Reading
+
+**🟩 Currently Reading:**  
+**Pro C# 10 with .NET 6**  
+<sub><a href="https://www.amazon.com/Pro-NET-Foundational-Principles-Programming/dp/1484278682">Foundational Principles and Practices in Programming</a></sub>  
+*Learning the core principles of object-oriented design and enterprise app development with C# and .NET 6.*
+
+---
+
+## 🧭 Up Next
+
+**🟦 Clean Code**  
+<sub><a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882">A Handbook of Agile Software Craftsmanship</a></sub>  
+*Focusing on writing clean, maintainable, and testable code for long-term scalability.*
+
+**🟧 Dependency Injection: Principles, Practices, and Patterns**  
+<sub><a href="https://www.amazon.com/Dependency-Injection-Principles-Practices-Patterns/dp/161729473X">Mastering DI in enterprise .NET applications</a></sub>  
+*Essential for building testable, loosely-coupled systems using .NET Core.*
+
+---
+
+## 🛠️ Familiar With
+
+- **Languages & Frameworks**:  
+  `C#`, `Java`, `Python`, `JavaScript`, `TypeScript`, `SQL`, `HTML`, `CSS`, `Spring (basic)`, 
+
+- **Web & Backend**:  
+  `.NET Core`, `Entity Framework`, `Web API`, `Node.js (light experience)`
+
+- **Frontend**:  
+  `React`, `Angular` (currently learning), 
+
+- **Tools & Platforms**:  
+  `Visual Studio Code`, `SQL Server Management Studio`, `Git`, `GitHub`,
+  
+
+---
+
+## 🎯 Career Focus
+
+Right now, I'm building a portfolio and deepening my expertise in:
+
+- **Full-stack development with .NET Core and Angular**
+- **Enterprise-grade SQL Server integration**
+- **Writing testable, maintainable code with modern software practices**
+- **Cloud readiness and deployment (AWS, containers, CI/CD — coming soon)**
+
+---
+
+📫 Feel free to check out my projects or connect — I'm always open to learning, collaborating, and building meaningful software.
