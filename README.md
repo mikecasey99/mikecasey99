@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael
+# 👋 Hi, I'm Mike
 
 I'm an aspiring full-stack developer focused on building modern enterprise applications using **C# and .NET Core**. I'm currently preparing for a career in government or enterprise tech, and actively leveling up my skills in backend development, clean code practices, and dependency injection.
 
