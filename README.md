@@ -2,7 +2,7 @@
 
 I'm an aspiring full-stack developer focused on building modern enterprise applications using **C# and .NET Core**. I'm currently preparing for a career in government or enterprise tech, and actively leveling up my skills in backend development, clean code practices, and dependency injection.
 
-I bring a strong willingness to learn, and I'm committed to building a rock-solid foundation in full-stack development — especially in technologies like **.NET Core**, **Entity Framework**, and **Angular**.
+I am really eager to expand my knowledge and want to continue learning more about **.NET Core**, **Entity Framework**, and **Angular.**
 
 ---
 
@@ -44,8 +44,6 @@ I bring a strong willingness to learn, and I'm committed to building a rock-soli
 
 ---
 
-## 🎯 Career Focus
-
 Right now, I'm building a portfolio and deepening my expertise in:
 
 - **Full-stack development with .NET Core and Angular**
@@ -55,4 +53,3 @@ Right now, I'm building a portfolio and deepening my expertise in:
 
 ---
 
-📫 Feel free to check out my projects or connect — I'm always open to learning, collaborating, and building meaningful software.
