@@ -40,14 +40,3 @@ I am really eager to expand my knowledge and want to continue learning more abou
   `Visual Studio Code`, `SQL Server Management Studio`, `Git`, `GitHub`,
   
 
----
-
-Right now, I'm building a portfolio and deepening my expertise in:
-
-- **Full-stack development with .NET Core and Angular**
-- **Enterprise-grade SQL Server integration**
-- **Writing testable, maintainable code with modern software practices**
-- **Cloud readiness and deployment (AWS, containers, CI/CD — coming soon)**
-
----
-
