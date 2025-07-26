@@ -11,7 +11,6 @@ I am really eager to expand my knowledge and want to continue learning more abou
 **🟩 Currently Reading:**  
 **Pro C# 10 with .NET 6**  
 <sub><a href="https://www.amazon.com/Pro-NET-Foundational-Principles-Programming/dp/1484278682">Foundational Principles and Practices in Programming</a></sub>  
-*Learning the core principles of object-oriented design and enterprise app development with C# and .NET 6.*
 
 ---
 
@@ -19,11 +18,10 @@ I am really eager to expand my knowledge and want to continue learning more abou
 
 **🟦 Clean Code**  
 <sub><a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882">A Handbook of Agile Software Craftsmanship</a></sub>  
-*Focusing on writing clean, maintainable, and testable code for long-term scalability.*
+
 
 **🟧 Dependency Injection: Principles, Practices, and Patterns**  
 <sub><a href="https://www.amazon.com/Dependency-Injection-Principles-Practices-Patterns/dp/161729473X">Mastering DI in enterprise .NET applications</a></sub>  
-*Essential for building testable, loosely-coupled systems using .NET Core.*
 
 ---
 
